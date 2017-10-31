@@ -1,1 +1,4 @@
 client/lib/semantic-ui/*
+/imports/api/profile/ProfileCollection.js
+/imports/api/base/BaseUtilities.js
+/imports/api/interest/InterestCollection.js
